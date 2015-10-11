@@ -68,7 +68,7 @@ static void sun_layer_update(Layer *layer, GContext *ctx) {
   // no bools in C, so int with values 0 or 1 instead
   int shorter = 0;
   
-  for (i = -3; i < 360; i += 15) {
+  for (i = 0; i < 360; i += 15) {
     GRect outer_rect;
     if (shorter == 0) {
       outer_rect = entire_screen;
