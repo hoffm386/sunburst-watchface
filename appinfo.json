@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Erin Rachael Hoffman",
+    "longName": "Sunburst",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Sunburst",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "4a5ec590-4916-401a-9477-31b442b52d0c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
